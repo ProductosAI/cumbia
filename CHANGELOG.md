@@ -2,12 +2,7 @@
 
 ## 3.9.0
 
-### Minor Changes
-
 -   f21bcb2: Add Enable extended thinking for LiteLLM provider
-
-### Patch Changes
-
 -   d490029: Added permissions checks, error handling, and git options to deal with cases where the entire workspace or specific files within it cannot be accessed. These issues were preventing checkpoints from working correctly, or causing checkpoints to hang.
 
 ## [3.8.6]
